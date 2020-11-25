@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://the-internet.herokuapp.com/add_remove_elements/",
+    "ignoreTestFiles": "**/examples/*",
+    "viewportHeight": 768,
+    "viewportWidth": 1024
+}
